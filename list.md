@@ -47,3 +47,4 @@
 - [G08-15_45](https://protomaps.github.io/PMTiles/?url=https://smb.optgeo.org/ipfs/QmYneBKKZE3Cahj3W2eJmrGzxknAcPjH81QBPaaFNrbbyh)
 - [G08-15_46](https://protomaps.github.io/PMTiles/?url=https://smb.optgeo.org/ipfs/QmVUUvWmd2vkBTsv9oNnbPF5FLM198aEgKEyfZGLztkA3y)
 - [G08-15_47](https://protomaps.github.io/PMTiles/?url=https://smb.optgeo.org/ipfs/QmfBYesMyj6t6CBowbuHMgr6Hz8nVHyLtYxDdVEPL7UY2Z)
+- [P29-21](https://protomaps.github.io/PMTiles/?url=https://smb.optgeo.org/ipfs/QmR3oydQYmVaApZ9t75DJwGJxFAojm9TLXoAudAsgjusEo)
