@@ -1,7 +1,16 @@
-SRC_DIR = "/home/portal/Downloads"
+require 'find'
+
+SRC_DIR = "../Downloads"
+DRY_RUN = false
+
 w = File.open('list.csv', 'w')
 
-Dir.glob("#{SRC_DIR}/**.shp") {|path|
+Find.find("#{SRC_DIR}") {|path|
+  next unless /shp$/.match path
+  if DRY_RUN
+    p path
+    next
+  end
   fgb_path = path.sub('.shp', '.fgb')
   pmtiles_path = path.sub('.shp', '.pmtiles')
   layer = File.basename(path, '.shp')

@@ -1,5 +1,5 @@
 File.foreach('list.csv') {|l|
   r = l.strip.split(',')
-  p `ipfs pin add #{r[1]}`
+  system "ipfs pin add --progress #{r[1]}"
 }
 
