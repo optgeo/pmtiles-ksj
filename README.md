@@ -16,3 +16,6 @@ You can support this prototype by pinning our PMTiles on IPFS. You can use [pin.
 ## Credit
 - 国土数値情報（国土交通省）を加工して作成
 
+## See also
+- [a related issue in UN Smart Maps Group](https://github.com/UNopenGIS/7/issues/345)
+
